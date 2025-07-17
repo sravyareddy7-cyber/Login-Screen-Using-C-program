@@ -1,0 +1,9 @@
+# Requirements for compiling and running login.c
+
+C Compiler (GCC or Clang)
+Standard C Libraries: stdio.h, string.h
+Operating System: Windows / Linux / macOS
+RAM: 512 MB minimum
+Disk: <1 MB
+Terminal or Command Line Interface
+Text Editor (VS Code / Notepad++ / Vim / etc.)
